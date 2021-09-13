@@ -1,3 +1,8 @@
+![img.shields.io](https://img.shields.io/badge/GITHUB-ACTION-blue?style=for-the-badge&logo=github)
+![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=for-the-badge)
+![opa](https://img.shields.io/badge/OPA-DOCKER-orange?style=for-the-badge)
+
+
 # Open Policy Agent - Conftest
 
 ## What is conftest?
